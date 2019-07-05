@@ -2,3 +2,4 @@ BBBBB
 AAAAAA
 CCCCC
 issure-101
+git status
